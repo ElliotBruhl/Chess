@@ -4,6 +4,7 @@ Piece.java contains methods related to piece attributes and legal move generatio
 Gui.java handles the gui using java swing. Also has event listeners to take input.
 
 todo:
+fully implement gui (promotion/game over message/illegal move message)
 make a system so that future board states can be generated and traversed like a tree data structure
 make position evaluation function
 use minimax algorithm to create chess computer
